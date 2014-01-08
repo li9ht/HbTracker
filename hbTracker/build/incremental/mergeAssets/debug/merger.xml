@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="ComGithubJohnkilAndroidRobototextviewRobototextview200.aar" >
+        <source path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets" >
+            <file
+                name="fonts/Roboto-Black.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\Roboto-Black.ttf" />
+            <file
+                name="fonts/Roboto-BlackItalic.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\Roboto-BlackItalic.ttf" />
+            <file
+                name="fonts/Roboto-Bold.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\Roboto-Bold.ttf" />
+            <file
+                name="fonts/Roboto-BoldItalic.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\Roboto-BoldItalic.ttf" />
+            <file
+                name="fonts/Roboto-Italic.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\Roboto-Italic.ttf" />
+            <file
+                name="fonts/Roboto-Light.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\Roboto-Light.ttf" />
+            <file
+                name="fonts/Roboto-LightItalic.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\Roboto-LightItalic.ttf" />
+            <file
+                name="fonts/Roboto-Medium.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\Roboto-Medium.ttf" />
+            <file
+                name="fonts/Roboto-MediumItalic.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\Roboto-MediumItalic.ttf" />
+            <file
+                name="fonts/Roboto-Regular.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\Roboto-Regular.ttf" />
+            <file
+                name="fonts/Roboto-Thin.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\Roboto-Thin.ttf" />
+            <file
+                name="fonts/Roboto-ThinItalic.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\Roboto-ThinItalic.ttf" />
+            <file
+                name="fonts/RobotoCondensed-Bold.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\RobotoCondensed-Bold.ttf" />
+            <file
+                name="fonts/RobotoCondensed-BoldItalic.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\RobotoCondensed-BoldItalic.ttf" />
+            <file
+                name="fonts/RobotoCondensed-Italic.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\RobotoCondensed-Italic.ttf" />
+            <file
+                name="fonts/RobotoCondensed-Light.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\RobotoCondensed-Light.ttf" />
+            <file
+                name="fonts/RobotoCondensed-LightItalic.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\RobotoCondensed-LightItalic.ttf" />
+            <file
+                name="fonts/RobotoCondensed-Regular.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\RobotoCondensed-Regular.ttf" />
+            <file
+                name="fonts/RobotoSlab-Bold.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\RobotoSlab-Bold.ttf" />
+            <file
+                name="fonts/RobotoSlab-Light.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\RobotoSlab-Light.ttf" />
+            <file
+                name="fonts/RobotoSlab-Regular.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\RobotoSlab-Regular.ttf" />
+            <file
+                name="fonts/RobotoSlab-Thin.ttf"
+                path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComGithubJohnkilAndroidRobototextviewRobototextview200.aar\assets\fonts\RobotoSlab-Thin.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="ComActionbarsherlockActionbarsherlock440.aar" >
+        <source path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\ComActionbarsherlockActionbarsherlock440.aar\assets" />
+    </dataSet>
+    <dataSet config="HbTrackerHoloGraphLibraryUnspecified.aar" >
+        <source path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\build\exploded-bundles\HbTrackerHoloGraphLibraryUnspecified.aar\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\firdausptm\AndroidStudioProjects\HbTracker\hbTracker\src\debug\assets" />
+    </dataSet>
+
+</merger>

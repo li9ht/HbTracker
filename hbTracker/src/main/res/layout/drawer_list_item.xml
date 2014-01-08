@@ -1,0 +1,20 @@
+<com.devspark.robototextview.widget.RobotoTextView
+     xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/title"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:minHeight="60dp"
+    android:padding="16dp"
+    android:textSize="18sp"
+    app:typeface="roboto_light"
+    android:background="#373737"
+    android:textColor="#ffffff" />
+
+
+<!--
+value nie tak ada untuk api 10 ke bawah
+         android:background="?android:attr/activatedBackgroundIndicator"
+    android:minHeight="?android:attr/listPreferredItemHeightSmall"
+    android:textAppearance="?android:attr/textAppearanceListItemSmall"-->
